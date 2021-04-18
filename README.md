@@ -1,6 +1,6 @@
 # Fedora 27 Ansible Test Image
 
-[![Docker Automated build](https://img.shields.io/docker/automated/buluma/docker-fedora27-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/buluma/docker-fedora27-ansible/) [![Docker pulls](https://img.shields.io/docker/pulls/buluma/docker-fedora27-ansible)](https://hub.docker.com/r/buluma/docker-fedora27-ansible/) [![Build Status](https://travis-ci.com/buluma/docker-fedora27-ansible.svg?branch=main)](https://travis-ci.com/buluma/docker-fedora27-ansible)
+[![Docker Automated build](https://img.shields.io/docker/automated/buluma/docker-fedora27-ansible.svg?maxAge=2592000)](https://hub.docker.com/r/buluma/docker-fedora27-ansible/) [![Docker pulls](https://img.shields.io/docker/pulls/buluma/docker-fedora27-ansible)](https://hub.docker.com/r/buluma/docker-fedora27-ansible/) [![Build Status](https://travis-ci.com/buluma/docker-fedora27-ansible.svg?branch=main)](https://travis-ci.com/buluma/docker-fedora27-ansible) [![Build](https://github.com/buluma/docker-fedora27-ansible/actions/workflows/build.yml/badge.svg)](https://github.com/buluma/docker-fedora27-ansible/actions/workflows/build.yml) [![Docker](https://github.com/buluma/docker-fedora27-ansible/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/buluma/docker-fedora27-ansible/actions/workflows/docker-publish.yml)
 
 Fedora 27 Docker container for Ansible playbook and role testing.
 
